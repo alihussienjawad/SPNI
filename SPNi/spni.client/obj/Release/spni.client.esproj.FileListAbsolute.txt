@@ -1,0 +1,3 @@
+D:\SPNI\spni.client\obj\Release\spni.client.esproj.CoreCompileInputs.cache
+E:\SPNI\spni.client\obj\Release\spni.client.esproj.CoreCompileInputs.cache
+E:\SpniLast\SPNI\spni.client\obj\Release\spni.client.esproj.CoreCompileInputs.cache

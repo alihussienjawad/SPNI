@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\controllers\\officerinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\controllers\\officerinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\controllers\\submangeministriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\controllers\\submangeministriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\submangeministry\\listsubmangeministry.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\submangeministry\\listsubmangeministry.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\submangeministry\\submanageministryfrom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\submangeministry\\submanageministryfrom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\spniunit\\listspniunit.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\spniunit\\listspniunit.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\app\\reducers\\craudslice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\app\\reducers\\craudslice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\officerinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\officerinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\node_modules\\axios\\lib\\core\\Axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:spni.client\\node_modules\\axios\\lib\\core\\Axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\officerinfo\\delete.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\officerinfo\\delete.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\officerinfo\\createupdate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\officerinfo\\createupdate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\submangeministry\\createupdate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\submangeministry\\createupdate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\submangeministry\\delete.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\submangeministry\\delete.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\officerinfo\\listofficerinfo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\officerinfo\\listofficerinfo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.client\\src\\pages\\officerinfo\\officerinfofrom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD30AC84-6D75-46E0-B9E6-BEEAF5B511F8}|spni.client\\spni.client.esproj|solutionrelative:spni.client\\src\\pages\\officerinfo\\officerinfofrom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\spiattitudedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\spiattitudedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\targetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\targetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\dto\\spiunitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\dto\\spiunitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\model\\submanageministry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\model\\submanageministry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\model\\officerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\model\\officerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|c:\\users\\abd\\onedrive\\desktop\\\u0627\u0646\u0638\u0645\u0629\\spni\\spni\\spni\\spni.server\\migrations\\20240923075224_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADB53CE-BE09-4F59-8D30-F86A72842611}|SPNI.Server\\SPNI.Server.csproj|solutionrelative:spni.server\\migrations\\20240923075224_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListSpniUnit.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\spniunit\\ListSpniUnit.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\spniunit\\ListSpniUnit.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\spniunit\\ListSpniUnit.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\spniunit\\ListSpniUnit.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T08:18:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "craudSlice.ts",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\app\\reducers\\craudSlice.ts",
+              "RelativeDocumentMoniker": "spni.client\\app\\reducers\\craudSlice.ts",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\app\\reducers\\craudSlice.ts",
+              "RelativeToolTip": "spni.client\\app\\reducers\\craudSlice.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T08:15:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListofficerInfo.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\ListofficerInfo.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\officerInfo\\ListofficerInfo.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\ListofficerInfo.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\officerInfo\\ListofficerInfo.tsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:08:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListSubMangeMinistry.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\ListSubMangeMinistry.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\SubMangeMinistry\\ListSubMangeMinistry.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\ListSubMangeMinistry.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\SubMangeMinistry\\ListSubMangeMinistry.tsx",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:07:57.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "officerInfofrom.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\officerInfofrom.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\officerInfo\\officerInfofrom.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\officerInfofrom.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\officerInfo\\officerInfofrom.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:09:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubManageMinistryfrom.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\SubManageMinistryfrom.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\SubMangeMinistry\\SubManageMinistryfrom.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\SubManageMinistryfrom.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\SubMangeMinistry\\SubManageMinistryfrom.tsx",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:17:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfficerInfoesController.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Controllers\\OfficerInfoesController.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\Controllers\\OfficerInfoesController.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Controllers\\OfficerInfoesController.cs",
+              "RelativeToolTip": "SPNI.Server\\Controllers\\OfficerInfoesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:18:44.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubMangeMinistriesController.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Controllers\\SubMangeMinistriesController.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\Controllers\\SubMangeMinistriesController.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Controllers\\SubMangeMinistriesController.cs",
+              "RelativeToolTip": "SPNI.Server\\Controllers\\SubMangeMinistriesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:20:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "officerInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\officerInfoDto.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\officerInfoDto.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\officerInfoDto.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\officerInfoDto.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:19:15.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240923075224_ss.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Migrations\\20240923075224_ss.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\Migrations\\20240923075224_ss.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Migrations\\20240923075224_ss.cs",
+              "RelativeToolTip": "SPNI.Server\\Migrations\\20240923075224_ss.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:52:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "createUpdate.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\createUpdate.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\SubMangeMinistry\\createUpdate.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\createUpdate.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\SubMangeMinistry\\createUpdate.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:24:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "createUpdate.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\createUpdate.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\officerInfo\\createUpdate.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\createUpdate.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\officerInfo\\createUpdate.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:24:10.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\Delete.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\SubMangeMinistry\\Delete.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\SubMangeMinistry\\Delete.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\SubMangeMinistry\\Delete.tsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:25:38.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.tsx",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\Delete.tsx",
+              "RelativeDocumentMoniker": "spni.client\\src\\pages\\officerInfo\\Delete.tsx",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\src\\pages\\officerInfo\\Delete.tsx",
+              "RelativeToolTip": "spni.client\\src\\pages\\officerInfo\\Delete.tsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-23T07:25:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Axios.js",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\node_modules\\axios\\lib\\core\\Axios.js",
+              "RelativeDocumentMoniker": "spni.client\\node_modules\\axios\\lib\\core\\Axios.js",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\spni.client\\node_modules\\axios\\lib\\core\\Axios.js",
+              "RelativeToolTip": "spni.client\\node_modules\\axios\\lib\\core\\Axios.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T07:50:05.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:07:24.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\NewsDto.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\NewsDto.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\NewsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:07:23.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "spiAttitudeDto.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\spiAttitudeDto.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\spiAttitudeDto.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\spiAttitudeDto.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\spiAttitudeDto.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:07:00.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\UserSession.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\UserSession.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\UserSession.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:06:59.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TargetDto.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\TargetDto.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\TargetDto.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\TargetDto.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\TargetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:06:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpiUnitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\SpiUnitDTO.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\DTO\\SpiUnitDTO.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\DTO\\SpiUnitDTO.cs",
+              "RelativeToolTip": "SPNI.Server\\DTO\\SpiUnitDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:06:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OfficerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Model\\OfficerInfo.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\Model\\OfficerInfo.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Model\\OfficerInfo.cs",
+              "RelativeToolTip": "SPNI.Server\\Model\\OfficerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:03:27.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubManageMinistry.cs",
+              "DocumentMoniker": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Model\\SubManageMinistry.cs",
+              "RelativeDocumentMoniker": "SPNI.Server\\Model\\SubManageMinistry.cs",
+              "ToolTip": "C:\\Users\\abd\\OneDrive\\Desktop\\\u0627\u0646\u0638\u0645\u0629\\SPNi\\SPNI\\SPNI\\SPNI.Server\\Model\\SubManageMinistry.cs",
+              "RelativeToolTip": "SPNI.Server\\Model\\SubManageMinistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:03:24.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

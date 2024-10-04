@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57555",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\..\\spni.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

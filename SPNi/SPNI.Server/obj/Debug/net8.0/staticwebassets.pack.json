@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\62101678.jpg",
+      "PackagePath": "staticwebassets\\images\\62101678.jpg"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\Nato.png",
+      "PackagePath": "staticwebassets\\images\\Nato.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\Raj.jpg",
+      "PackagePath": "staticwebassets\\images\\Raj.jpg"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\Raj1.png",
+      "PackagePath": "staticwebassets\\images\\Raj1.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\Screenshot 2024-09-08 133754.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-08 133754.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\global-network.png",
+      "PackagePath": "staticwebassets\\images\\global-network.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\z.s.a.png",
+      "PackagePath": "staticwebassets\\images\\z.s.a.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\امرية الاتصالات العسكرية.png",
+      "PackagePath": "staticwebassets\\images\\امرية الاتصالات العسكرية.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\images\\امرية الاتصالات ق س م ع.png",
+      "PackagePath": "staticwebassets\\images\\امرية الاتصالات ق س م ع.png"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\Page-1(1).pdf",
+      "PackagePath": "staticwebassets\\pdf\\Page-1(1).pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\abd.pdf",
+      "PackagePath": "staticwebassets\\pdf\\abd.pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\c#كراسة.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c#كراسة.pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\document (5).pdf",
+      "PackagePath": "staticwebassets\\pdf\\document (5).pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\document (6).pdf",
+      "PackagePath": "staticwebassets\\pdf\\document (6).pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\document (7).pdf",
+      "PackagePath": "staticwebassets\\pdf\\document (7).pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\document (8).pdf",
+      "PackagePath": "staticwebassets\\pdf\\document (8).pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\document (9).pdf",
+      "PackagePath": "staticwebassets\\pdf\\document (9).pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\تقرير مؤتمر التدقيق المركزي.docx",
+      "PackagePath": "staticwebassets\\pdf\\تقرير مؤتمر التدقيق المركزي.docx"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\مخطط نقيب علي.pdf",
+      "PackagePath": "staticwebassets\\pdf\\مخطط نقيب علي.pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\مستمسكات حسين عبد الحسين  1.pdf",
+      "PackagePath": "staticwebassets\\pdf\\مستمسكات حسين عبد الحسين  1.pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\منهاج_شبكات_الحاسوب_الاولية_جديد_بعد_التعديل_22_2_2021_2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\منهاج_شبكات_الحاسوب_الاولية_جديد_بعد_التعديل_22_2_2021_2.pdf"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\pdf\\نظام هيكلية القوة وتجميع وتحليل القدرات4444444444.pptx",
+      "PackagePath": "staticwebassets\\pdf\\نظام هيكلية القوة وتجميع وتحليل القدرات4444444444.pptx"
+    },
+    {
+      "Id": "E:\\LastSpni\\LastSpni\\SPNi\\SPNI.Server\\wwwroot\\translation.py",
+      "PackagePath": "staticwebassets\\translation.py"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SPNI.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SPNI.Server.props",
+      "PackagePath": "build\\SPNI.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SPNI.Server.props",
+      "PackagePath": "buildMultiTargeting\\SPNI.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SPNI.Server.props",
+      "PackagePath": "buildTransitive\\SPNI.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

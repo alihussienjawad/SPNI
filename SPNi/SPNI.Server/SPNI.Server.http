@@ -1,0 +1,13 @@
+@SPNI.Server_HostAddress = https://192.168.19.107:1011
+
+ 
+ 
+
+# GET {{SPNI.Server_HostAddress}}/api/OfficerInfoes/
+# Accept: application/json
+
+# PUT {{SPNI.Server_HostAddress}}/api/OfficerInfoes/
+# Accept: application/json
+
+# DELETE {{SPNI.Server_HostAddress}}/api/OfficerInfoes/
+# Accept: application/json

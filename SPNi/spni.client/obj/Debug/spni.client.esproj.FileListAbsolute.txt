@@ -1,0 +1,15 @@
+D:\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+C:\Users\abd\OneDrive\Desktop\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+C:\Users\abd\OneDrive\Desktop\New folder (2)\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+D:\ArbFonts.com-(2)\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+C:\Users\abd\OneDrive\Desktop\spni last\ArbFonts.com-(2)\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\spni last\ArbFonts.com-(2)\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\SpniLast\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+D:\LastSpni\SPNI\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\انظمة\SPNi\SPNI\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+C:\Users\abd\OneDrive\Desktop\انظمة\SPNi\SPNI\SPNI\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\نظام خطة متابعة الاهداف\SPNi\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\نظام خطة متابعة الاهداف\SPNi\SPNi\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+D:\LastSpni\نظام خطة متابعة الاهداف\SPNi\SPNi\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
+E:\LastSpni\LastSpni\SPNi\spni.client\obj\Debug\spni.client.esproj.CoreCompileInputs.cache
